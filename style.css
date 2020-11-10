@@ -2,8 +2,10 @@ h1
  { text-align: center;
    color: red;
 }
-body{background-color:#012634;
-}
+
+body
+{background-color: powderblue;}
+
 p {
   text-align: center;
   color: blu;
